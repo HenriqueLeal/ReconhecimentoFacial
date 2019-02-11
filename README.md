@@ -10,5 +10,5 @@ Reconhecimento facial
 `python faces.py`
  
  ### Exemplo de detecção :
- ![](eu.jpg)
- ![](nilceu.jpg)
+ ![](eu.JPG)
+ ![](nilceu.JPG)
